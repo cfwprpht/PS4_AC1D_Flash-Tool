@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>ConsoleControl</id>
+    <version>1.0.3.1</version>
+    <title>ConsoleControl for WinForms</title>
+    <authors>Dave Kerr</authors>
+    <owners>Dave Kerr</owners>
+    <licenseUrl>https://github.com/dwmkerr/consolecontrol</licenseUrl>
+    <projectUrl>https://github.com/dwmkerr/consolecontrol</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The ConsoleControl is a WinForms control that you can drop into a Form to run an external process in a C# application.</description>
+    <releaseNotes />
+    <copyright>Dave Kerr 2013</copyright>
+  </metadata>
+</package>
